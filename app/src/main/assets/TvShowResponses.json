@@ -1,0 +1,84 @@
+{
+  "tvshow": [
+    {
+      "tvShowId": "1t",
+      "tvShowTitle": "The Good Doctor",
+      "tvShowGenre": "Drama",
+      "tvShowRating": "86%",
+      "tvShowDescription": "A young surgeon with Savant syndrome is recruited into the surgical unit of a prestigious hospital. The question will arise: can a person who doesn't have the ability to relate to people actually save their lives",
+      "tvShowPoster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6tfT03sGp9k4c0J3dypjrI8TSAI.jpg"
+    },
+    {
+      "tvShowId": "2t",
+      "tvShowTitle": "Haunted: Latin America",
+      "tvShowGenre": "Reality",
+      "tvShowRating": "75%",
+      "tvShowDescription": "Real people's terrifying tales of the chilling, unexplained and paranormal come to life with dramatic reenactments in this reality series.",
+      "tvShowPoster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Q1ZYG3kDS8iVIHOYOJ9NQmV0q7.jpg"
+    },
+    {
+      "tvShowId": "3t",
+      "tvShowTitle": "Luis Miguel: The Series",
+      "tvShowGenre": "Drama",
+      "tvShowRating": "81%",
+      "tvShowDescription": "The series dramatizes the life story of Mexican superstar singer Luis Miguel, who has captivated audiences in Latin America and beyond for decades.",
+      "tvShowPoster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/34FaY8qpjBAVysSfrJ1l7nrAQaD.jpg"
+    },
+    {
+      "tvShowId": "4t",
+      "tvShowTitle": "Game of Thrones",
+      "tvShowGenre": "Sci-Fi & Fantasy, Drama, Action & Adventure",
+      "tvShowRating": "84%",
+      "tvShowDescription": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+      "tvShowPoster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg"
+    },
+    {
+      "tvShowId": "5t",
+      "tvShowTitle": "The Vampire Diaries",
+      "tvShowGenre": "Drama, Sci-Fi & Fantasy",
+      "tvShowRating": "83%",
+      "tvShowDescription": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
+      "tvShowPoster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kLEha9zVVv8acGFKTX4gjvSR2Q0.jpg" 
+    },
+    {
+      "tvShowId": "6t",
+      "tvShowTitle": "Vikings",
+      "tvShowGenre": "Action & Adventure, Drama",
+      "tvShowRating": "80%",
+      "tvShowDescription": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.",
+      "tvShowPoster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg"
+    },
+    {
+      "tvShowId": "7t",
+      "tvShowTitle": "Marvel Studios: Legends",
+      "tvShowGenre": "Documentary",
+      "tvShowRating": "77%",
+      "tvShowDescription": "Revisit the epic heroes, villains and moments from across the MCU in preparation for the stories still to come. Each dynamic segment feeds directly into the upcoming series — setting the stage for future events. This series weaves together the many threads that constitute the unparalleled Marvel Cinematic Universe.",
+      "tvShowPoster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg"
+    },
+    {
+      "tvShowId": "8t",
+      "tvShowTitle": "Smallville",
+      "tvShowGenre": "Sci-Fi & Fantasy, Action & Adventure, Drama",
+      "tvShowRating": "82%",
+      "tvShowDescription": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen years to Clark Kent’s final steps toward embracing his destiny as the Man of Steel.",
+      "tvShowPoster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8usd5QN9ccLDkOQQf2SqprH4in5.jpg"
+    },
+    {
+      "tvShowId": "9t",
+      "tvShowTitle": "The Mandalorian",
+      "tvShowGenre": "Sci-Fi & Fantasy, Action & Adventure, Western, Drama",
+      "tvShowRating": "85%",
+      "tvShowDescription": "After the fall of the Galactic Empire, lawlessness has spread throughout the galaxy. A lone gunfighter makes his way through the outer reaches, earning his keep as a bounty hunter.",
+      "tvShowPoster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg"
+    },
+    {
+      "tvShowId": "10t",
+      "tvShowTitle": "Breaking Bad",
+      "tvShowGenre": "Drama",
+      "tvShowRating": "87%",
+      "tvShowDescription": "When Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+      "tvShowPoster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ggFHVNu6YYI5L9pCfOacjizRGt.jpg"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "movies": [
+    {
+      "moviesId": "1m",
+      "moviesTitle": "Mortal Kombat",
+      "moviesGenre": "Fantasy, Action, Adventure, Science Fiction, Thriller",
+      "moviesRating": "78%",
+      "moviesDescription": "Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.",
+      "moviesPoster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xGuOF1T3WmPsAcQEQJfnG7Ud9f8.jpg"
+    },
+    {
+      "moviesId": "2m",
+      "moviesTitle": "Godzilla vs. Kong",
+      "moviesGenre": "Action, Thriller, Crime",
+      "moviesRating": "85%",
+      "moviesDescription": "In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.",
+      "moviesPoster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg"
+    },
+    {
+      "moviesId": "3m",
+      "moviesTitle": "Nobody",
+      "moviesGenre": "Action, Thriller, Crime",
+      "moviesRating": "85%",
+      "moviesDescription": "Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a nobody. When two thieves break into his home one night, Hutch's unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.",
+      "moviesPoster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg"
+    },
+    {
+      "moviesId": "4m",
+      "moviesTitle": "The Marksman",
+      "moviesGenre": "Action, Thriller, Crime",
+      "moviesRating": "75%",
+      "moviesDescription": "Jim Hanson’s quiet life is suddenly disturbed by two people crossing the US/Mexico border – a woman and her young son – desperate to flee a Mexican cartel. After a shootout leaves the mother dead, Jim becomes the boy’s reluctant defender. He embraces his role as Miguel’s protector and will stop at nothing to get him to safety, as they go on the run from the relentless assassins.",
+      "moviesPoster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6vcDalR50RWa309vBH1NLmG2rjQ.jpg"
+    },
+    {
+      "moviesId": "5m",
+      "moviesTitle": "Mortal Kombat",
+      "moviesGenre": "Comedy, Family, Animation",
+      "moviesRating": "73%",
+      "moviesDescription": "Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can’t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.",
+      "moviesPoster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yMoMlJo2msoVwmuf6k1C78MrB3H.jpg"
+    },
+    {
+      "moviesId": "6m",
+      "moviesTitle": "Outside the Wire",
+      "moviesGenre": "Thriller, Action, Science Fiction",
+      "moviesRating": "65%",
+      "moviesDescription": "In the near future, a drone pilot is sent into a deadly militarized zone and must work with an android officer to locate a doomsday device.",
+      "moviesPoster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6XYLiMxHAaCsoyrVo38LBWMw2p8.jpg"
+    },
+    {
+      "moviesId": "7m",
+      "moviesTitle": "Tom Clancy's Without Remorse",
+      "moviesGenre": "Action, Adventure, Thriller, War",
+      "moviesRating": "72%",
+      "moviesDescription": "An elite Navy SEAL uncovers an international conspiracy while seeking justice for the murder of his pregnant wife.",
+      "moviesPoster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rEm96ib0sPiZBADNKBHKBv5bve9.jpg"
+    },
+    {
+      "moviesId": "8m",
+      "moviesTitle": "Mortal Kombat Legends: Scorpion's Revenge",
+      "moviesGenre": "Animation, Action, Fantasy",
+      "moviesRating": "83%",
+      "moviesDescription": "After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanzo Hasashi is exiled to the torturous Netherrealm. There, in exchange for his servitude to the sinister Quan Chi, he’s given a chance to avenge his family – and is resurrected as Scorpion, a lost soul bent on revenge. Back on Earthrealm, Lord Raiden gathers a team of elite warriors – Shaolin monk Liu Kang, Special Forces officer Sonya Blade and action star Johnny Cage – an unlikely band of heroes with one chance to save humanity. To do this, they must defeat Shang Tsung’s horde of Outworld gladiators and reign over the Mortal Kombat tournament.",
+      "moviesPoster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4VlXER3FImHeFuUjBShFamhIp9M.jpg"
+    },
+    {
+      "moviesId": "9m",
+      "moviesTitle": "Space Sweepers",
+      "moviesGenre": "Drama, Fantasy, Science Fiction",
+      "moviesRating": "72%",
+      "moviesDescription": "When the crew of a space junk collector ship called The Victory discovers a humanoid robot named Dorothy that's known to be a weapon of mass destruction, they get involved in a risky business deal which puts their lives at stake.",
+      "moviesPoster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p9YDHJKvUoi7v2SCd3vLGPae1Xp.jpg"
+    },
+    {
+      "moviesId": "10m",
+      "moviesTitle": "Below Zero",
+      "moviesGenre": "Action, Crime, Thriller",
+      "moviesRating": "64%",
+      "moviesDescription": "When a prisoner transfer van is attacked, the cop in charge must fight those inside and outside while dealing with a silent foe: the icy temperatures.",
+      "moviesPoster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dWSnsAGTfc8U27bWsy2RfwZs0Bs.jpg"
+    }
+  ]
+}
